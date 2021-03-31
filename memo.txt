@@ -8,3 +8,5 @@
 # git add .
 # git commit -m "message"
 # git push origin master
+
+# git 상에서도 수정이 가능하다.
